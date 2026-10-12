@@ -1,0 +1,3 @@
+model2vec
+psycopg2-binary
+python-dotenv
